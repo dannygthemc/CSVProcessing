@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\data_entry.o
+./release\grants_entry.o
+./release\LinkedList.o
+./release\teaching_entry.o
+./release\datastruct.o
+./release\publication_entry.o
+./release\presentation_entry.o
+./release\moc_mainwindow.o
+);

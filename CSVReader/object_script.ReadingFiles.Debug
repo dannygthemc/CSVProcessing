@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\data_entry.o
+./debug\grants_entry.o
+./debug\LinkedList.o
+./debug\teaching_entry.o
+./debug\datastruct.o
+./debug\publication_entry.o
+./debug\presentation_entry.o
+./debug\moc_mainwindow.o
+);
